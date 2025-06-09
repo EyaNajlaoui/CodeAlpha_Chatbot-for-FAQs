@@ -22,6 +22,6 @@
 - JSON: Storage of FAQ data
 
 ## Demo
-See the Eya Customer Support Chatbot in action:
+See the Customer Support Chatbot in action:
 
 ![Chatbot Demo](screenshots/demo_chatbot.gif)
