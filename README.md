@@ -1,11 +1,11 @@
 # CodeAlpha_Chatbot-for-FAQs
 # Customer Support Chatbot
 
-## Project Overview
-# A smart customer support chatbot built with Python and Gradio, designed to streamline customer interactions for the online store.
-# The Customer Support Chatbot 🤖 helps customers navigate effortlessly, whether they’re creating an account, tracking an order, or understanding the return policy.
+# Project Overview
+ A smart customer support chatbot built with Python and Gradio, designed to streamline customer interactions for the online store.
+ The Customer Support Chatbot 🤖 helps customers navigate effortlessly, whether they’re creating an account, tracking an order, or understanding the return policy.
 
-## Features
+# Features
  - Natural Language Processing: Leverages TF-IDF and cosine similarity to interpret user queries accurately.
  - Sleek Web Interface: Powered by Gradio for a modern, user-friendly experience.
  - Intelligent Responses: Matches questions to predefined FAQs using semantic similarity.
@@ -13,7 +13,7 @@
  - Fallback Responses: Provides contextual suggestions when no exact match is found.
  - Quick Help Section: Displays popular questions for instant access to common inquiries.
 
-## Technologies Used
+# Technologies Used
 - Python 3.8+
 - Gradio: Interactive web interface
 - scikit-learn: Machine learning for TF-IDF and cosine similarity
@@ -21,7 +21,7 @@
 - NumPy & Pandas: Data manipulation and analysis
 - JSON: Storage of FAQ data
 
-## Demo
+# Demo
 See the Customer Support Chatbot in action:
 
 ![Chatbot Demo](screenshots/demo_chatbot.gif)
